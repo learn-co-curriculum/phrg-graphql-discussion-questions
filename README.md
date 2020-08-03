@@ -2,17 +2,23 @@
 
 ## Instructions
 
-Discuss the following questions with your pairing partner. Use a text editor to sketch out GraphQL that may help piece together an answer. Do your best to get to the core of each question and make sure you and your pair understand the answer.
+Discuss the following questions with your pairing partner. Use a text editor to sketch out GraphQL queries/schema. Do your best to get to the core of each question and make sure you and your pair understand each answer.
+
+After discussing all of these with your partner, if any question/answer is still unclear, discuss it with the class.
 
 ## Questions
 
 - What is GraphQL?
 
-- How does error handling work in GraphQL?
-
 - What are the main differences between REST and GraphQL?
 
 - Is GraphQL a database technology? Why so or why not?
+
+- Name and discuss all GraphQL Scalar types. How do these differ from other types?
+
+- What is a GraphQL input type?
+
+- How does error handling work in GraphQL?
 
 - What type of operations could GraphQL schema have?
 
